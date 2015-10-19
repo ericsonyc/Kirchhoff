@@ -13,6 +13,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+Kirchhoff/.idea/
+Kirchhoff/.iml
 
 # Windows shortcuts
 *.lnk
