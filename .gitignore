@@ -14,7 +14,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 Kirchhoff/.idea/
-Kirchhoff/.iml
+Kirchhoff/Kirchhoff.iml
 
 # Windows shortcuts
 *.lnk
